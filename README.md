@@ -7,7 +7,7 @@ Full stack web developer 💻
 Passionate software engineer skilled in web development, crafting innovative solutions. Solving intricate problems and producing quality code is my jam. Adaptable and quick to learn, I'm always seeking growth and making impactful contributions. Let's code our way to success!
 
 * 🌍  I'm based in Mangaluru, Karnataka, India
-* 🖥️  See my portfolio at [My Portfolio](http://karthik.live/)
+* 🖥️  See my portfolio at [karthik.live](http://karthik.live/)
 * 🧠  I'm learning Angular | Spring Boot | SQL and more
 
 ### Skills
