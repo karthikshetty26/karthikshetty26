@@ -2,7 +2,7 @@
 
 I'm a software developer passionate about coding, open source, and technology. Welcome to my GitHub profile!
 
-###---------------------------------
+---------------------------------
 
 👨‍💻 Full-Stack Web Developer based in Mangaluru, Karnataka, India.
 🌐 Check out my portfolio at [karthik.live](https://karthik.live).
