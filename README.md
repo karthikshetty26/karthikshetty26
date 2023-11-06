@@ -1,23 +1,15 @@
 # Hello, I'm Karthik Shetty! 👋
 
-I'm a software developer passionate about coding, open source, and technology. Welcome to my GitHub profile!
-
 ---------------------------------
 
-- 👨‍💻 Full-Stack Web Developer based in Mangaluru, Karnataka, India.
-- 🌐 Check out my portfolio at [karthik.live](https://karthik.live).
-- 🚀 Constantly on the lookout for new technologies to master.
-- 🌱 Currently diving deep into Angular, Spring Boot, SQL, and more.
+👋 I'm a software developer passionate about coding, open source, and technology. Welcome to my GitHub profile!
+🚀 I'm constantly exploring new technologies and currently diving deep into Angular, Spring Boot, SQL, and more. 
 
-Let's build the web of the future together! 🌟
-
-Hello, I'm Karthik Shetty! 
-
-👋 I'm a passionate software developer based in Mangaluru, Karnataka, India, specializing in full-stack web development. Welcome to my GitHub profile! I'm constantly exploring new technologies and currently diving deep into Angular, Spring Boot, SQL, and more. Check out my portfolio at karthik.live, and let's build the web of the future together! 🚀🌱🌐🌟
-
+let's build the web of the future together! 🌟
 
 You can reach out to me on the following platforms:
 
+- 🌐 Portfolio: [karthik.live](https://karthik.live/)
 - 💼 LinkedIn: [Karthik shetty](https://www.linkedin.com/in/karthikshetty26/)
 - 💖 Instagram: [karthikshetty26](http://www.instagram.com/in/karthikshetty26/)
 - 🧐 Blog: [hashnode](https://karthikshetty.hashnode.dev/) | [medium](http://www.medium.com/@Karthikshetty26)
