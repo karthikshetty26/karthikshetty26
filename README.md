@@ -6,7 +6,6 @@
 
 You can reach out to me on the following platforms:
 
-- 🌐 Portfolio: [karthik.live](https://karthik.live/)
 - 💼 LinkedIn: [Karthik shetty](https://www.linkedin.com/in/karthikshetty26/)
 - 💖 Instagram: [karthikshetty26](http://www.instagram.com/in/karthikshetty26/)
 - 🧐 Blog: [hashnode](https://karthikshetty.hashnode.dev/) | [medium](http://www.medium.com/@Karthikshetty26)
